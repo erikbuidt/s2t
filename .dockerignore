@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+*.mp4
+*.mp3
+*.m4a
+*.webm
+downloads
+npm-debug.log
+docker-compose.yml
+Dockerfile
+.git
+.gitignore
